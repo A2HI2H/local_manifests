@@ -64,7 +64,7 @@
 	<project name="TackleBerryCrash/android_frameworks_native" path="frameworks/native" revision="linaro" />
 
 	<remove-project name="CyanogenMod/android_frameworks_rs" />
-	<project name="TackleBerryCrash/android_frameworks_rs" path="frameworks/rs" revision="cm-10.1" />
+	<project name="TackleBerryCrash/android_frameworks_rs" path="frameworks/rs" revision="linaro" />
 
 	<remove-project name="CyanogenMod/android_frameworks_wilhelm" />
 	<project name="TackleBerryCrash/android_frameworks_wilhelm" path="frameworks/wilhelm" revision="linaro" />
